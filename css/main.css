@@ -1,0 +1,84 @@
+.navbar {
+  background-color: rgb(40, 42, 53);
+  height: 80px;
+  text-align: center;
+  font-size: 25px;
+  word-spacing: 20px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  line-height: 80px;
+}
+
+div {
+  display: block;
+}
+
+#html h1 {
+  font-size: 40px;
+}
+
+.btn {
+  height: 40px;
+  background-color: #04aa6d;
+  font-size: 18px;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+
+.about {
+  background-color: rgb(217, 238, 225);
+}
+
+a.w3-left {
+  background-color: #04aa6d;
+  color: #ffffff;
+  border-color: #04aa6d;
+}
+
+.nextprev a {
+  font-size: 18px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding-left: 19px;
+  padding-right: 19px;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+}
+
+.w3-left {
+  float: left !important;
+}
+
+.w3-button {
+  display: inline-block;
+  padding: 8px 16px;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+element.style {
+  font-size: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-top: 6px;
+}
+
+.w3-info .w3-btn {
+  background-color: #04aa6d;
+  border-radius: 5px;
+}
+
+h2 {
+  font-size: 25px;
+}
+
+h2 {
+  font-size: 25px;
+}
